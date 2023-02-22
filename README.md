@@ -1,5 +1,8 @@
 # COP290-LAB3
 
+*Learning Objectives*: Reading code, designing and writing clean code, backend, frontend, CI/CD, SQL, testing.
+
+
 This lab will be done in groups of four. The main objective is to design and develop a website.
 
 You need to design and develop APIs required for a website and set-up a database on MySQL. Data for your websites can be obtained online from websites like Kaggle. Then, you will design the frontend for the website and get it running. You will also implement unit and integration tests and run them continuously. 
