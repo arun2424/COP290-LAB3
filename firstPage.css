@@ -1,0 +1,72 @@
+body{
+    background-color: goldenrod;
+}
+#BoxA{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 5em;
+}
+.container{
+    text-align: center;
+    padding-top: 100px;
+}
+#lgn{
+    height: 100px;
+    width: 200px;
+    font-size: 35px;
+}
+#sgu{
+    height: 100px;
+    width: 200px;
+    font-size: 35px;
+}
+button:hover{
+    background-color: darkgray;
+    color: white;
+}
+#search{
+    width: 6%;
+    font-size: 15px;
+}
+.container{
+    text-align: center;
+    padding: 50px;
+}
+input[type=search]{
+    width: 600px;
+}
+.container2{
+    text-align: center;
+    padding: 250px;
+}
+#newPost{
+    width: 125px;
+    height: 50px;
+}
+#explore{
+    width: 125px;
+    height: 50px;
+}
+#chat{
+    width: 125px;
+    height: 50px;
+}
+#profile{
+    width: 125px;
+    height: 50px;
+}
+button{
+    text-decoration: none;
+    cursor: pointer;
+    display: inline block;
+}
+#lgout{
+    width: 125px;
+    height: 50px;
+}
